@@ -35,4 +35,3 @@ Demo repository for basic GitHub Actions workflow syntax.
     - Ensure PRs are closed/merged
     - Ensure any new branches are deleted
     - Delete the workflow and commit to the main branch
-
